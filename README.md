@@ -1,7 +1,11 @@
 genetox_tsca
 ==============================
 
-Applying a proof of principle information approach to assessing genotoxicity for TSCA chemicals.
+Code repository supporting the following manuscript:
+
+Patlewicz G, Dean J, Gibbons C, Judson RJ, Keshava N, Vegosen L, Martin T, Pradeep P, Simha A, Warren S, Gwinn M, DeMarini D. 2021. Integrating publicly available information to screen potential candidates for chemical prioritization under the Toxic Substances Control Act: A proof of concept case study using genotoxicity and carcinogenicity. Computational Toxicology, *in press*
+
+Underlying datasets can be found at: https://gaftp.epa.gov/Comptox/CCTE_Publication_Data/CCED_Publication_Data/PatlewiczGrace/CompTox-tsca. 
 
 Project Organization
 ------------
