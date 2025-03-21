@@ -3,9 +3,9 @@ genetox_tsca
 
 Code repository supporting the following manuscript:
 
-Patlewicz G, Dean J, Gibbons C, Judson RJ, Keshava N, Vegosen L, Martin T, Pradeep P, Simha A, Warren S, Gwinn M, DeMarini D. 2021. Integrating publicly available information to screen potential candidates for chemical prioritization under the Toxic Substances Control Act: A proof of concept case study using genotoxicity and carcinogenicity. Computational Toxicology, *in press*
+Patlewicz G, Dean J, Gibbons C, Judson RJ, Keshava N, Vegosen L, Martin T, Pradeep P, Simha A, Warren S, Gwinn M, DeMarini D. 2021. Integrating publicly available information to screen potential candidates for chemical prioritization under the Toxic Substances Control Act: A proof of concept case study using genotoxicity and carcinogenicity. Computational Toxicology, *in press* https://doi.org/10.1016/j.comtox.2021.100185
 
-Underlying datasets can be found at: https://gaftp.epa.gov/Comptox/CCTE_Publication_Data/CCED_Publication_Data/PatlewiczGrace/CompTox-tsca. 
+Underlying datasets can be found at: https://gaftp.epa.gov/Comptox/CCTE_Publication_Data/CCED_Publication_Data/PatlewiczGrace/CompTox-tsca. or DOI 10.5281/zenodo.15065152.
 
 Project Organization
 ------------
